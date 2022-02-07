@@ -1,0 +1,42 @@
+.card-content-Alive {
+  width: 200px;
+  background-color: #f1f7fe;
+  margin-bottom: 15px;
+  border: 1px solid #98c0c2;
+}
+
+.card-content-Dead {
+  width: 200px;
+  background-color: #f8ccce;
+  margin-bottom: 15px;
+  border: 1px solid #ff686f;
+}
+
+.card-content-unknown {
+  width: 200px;
+  background-color: #f8ccce;
+  margin-bottom: 15px;
+  border: 1px solid #ff686f;
+}
+
+.card-title-Alive {
+  color: #58a0a1;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.card-title-Dead {
+  color: #8a2b2f;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.card-title-unknown {
+  color: #8a2b2f;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.card-img {
+  width: 155px;
+}
